@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sophia Rosário
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in cloud computing 
+- 🌱 I’m currently learning Java and cloud computing
 
 <div align="center">
   <a href="https://github.com/sophiaRosario">
